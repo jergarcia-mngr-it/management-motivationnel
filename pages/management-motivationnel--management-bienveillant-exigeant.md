@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
     "headline":  "Management bienveillant et exigeant : concilier soutien et performance",
     "description":  "Apprenez a pratiquer un management bienveillant et exigeant, capable de soutenir les personnes sans renoncer a la performance.",
     "inLanguage":  "fr-FR",
@@ -49,12 +49,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Posture et legitimite du manager leader",
     "keywords":  [

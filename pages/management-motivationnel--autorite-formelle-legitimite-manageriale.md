@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
     "headline":  "Autorite formelle et legitimite manageriale",
     "description":  "Comprenez la difference entre autorite formelle et legitimite, puis decouvrez comment renforcer votre credibilite de manager.",
     "inLanguage":  "fr-FR",
@@ -50,12 +50,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Posture et legitimite du manager leader",
     "keywords":  [

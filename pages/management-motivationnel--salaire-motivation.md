@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/salaire-motivation/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/salaire-motivation/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
     "headline":  "Salaire et motivation : peut-on motiver sans parler d\u0027argent ?",
     "description":  "Le salaire motive-t-il vraiment ? Comprenez ses limites, son role de facteur d\u0027hygiene et les leviers non financiers d\u0027engagement.",
     "inLanguage":  "fr-FR",
@@ -49,12 +49,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Fondements de la motivation au travail",
     "keywords":  [

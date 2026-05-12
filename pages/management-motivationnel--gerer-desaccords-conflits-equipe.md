@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
     "headline":  "Gerer les desaccords et conflits : une approche creative du management",
     "description":  "Apprenez a gerer les desaccords et conflits en equipe avec une approche constructive inspiree du management creatif.",
     "inLanguage":  "fr-FR",
@@ -49,12 +49,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Securite psychologique et QVCT",
     "keywords":  [

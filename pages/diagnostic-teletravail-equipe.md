@@ -92,39 +92,39 @@ Oui. Il est particulierement utile quand l'equipe alterne presentiel et distance
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/diagnostic-teletravail-equipe/#webpage",
-                       "url":  "https://www.votre-site.fr/diagnostic-teletravail-equipe/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/diagnostic-teletravail-equipe/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/diagnostic-teletravail-equipe/",
                        "name":  "Diagnostic teletravail : evaluer votre organisation hybride",
                        "description":  "Evaluez votre organisation du teletravail : charge, communication, cohesion, outils, autonomie et risques d\u0027isolement.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/diagnostic-teletravail-equipe/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/diagnostic-teletravail-equipe/#service",
                        "name":  "Diagnostic teletravail",
                        "description":  "Evaluez votre organisation du teletravail : charge, communication, cohesion, outils, autonomie et risques d\u0027isolement.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "test d\u0027auto-diagnostic teletravail",
-                       "url":  "https://www.votre-site.fr/diagnostic-teletravail-equipe/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/diagnostic-teletravail-equipe/"
                    }
                ]
 }

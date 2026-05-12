@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
     "headline":  "Donner du sens au travail dans un environnement instable",
     "description":  "Comment un manager peut donner du sens, clarifier les priorites et proteger son equipe dans un contexte incertain ou changeant.",
     "inLanguage":  "fr-FR",
@@ -49,12 +49,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Outils de pilotage et leviers operationnels",
     "keywords":  [

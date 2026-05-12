@@ -92,39 +92,39 @@ Il faut clarifier le cap, expliciter les priorites, traduire les decisions en ob
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/consultant-strategie-affaires-pme/#webpage",
-                       "url":  "https://www.votre-site.fr/consultant-strategie-affaires-pme/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/consultant-strategie-affaires-pme/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/consultant-strategie-affaires-pme/",
                        "name":  "Consultant strategie PME : cap, priorites, equipes",
                        "description":  "Accompagnement strategique pour PME : clarifier les priorites, aligner les equipes et transformer le cap en actions.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/consultant-strategie-affaires-pme/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/consultant-strategie-affaires-pme/#service",
                        "name":  "Consultant strategie PME",
                        "description":  "Accompagnement strategique pour PME : clarifier les priorites, aligner les equipes et transformer le cap en actions.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "consultant en strategie d\u0027affaires PME",
-                       "url":  "https://www.votre-site.fr/consultant-strategie-affaires-pme/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/consultant-strategie-affaires-pme/"
                    }
                ]
 }

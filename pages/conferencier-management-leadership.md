@@ -86,39 +86,39 @@ Oui. L'intervention doit etre adaptee au public, au contexte, aux mots de l'orga
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/conferencier-management-leadership/#webpage",
-                       "url":  "https://www.votre-site.fr/conferencier-management-leadership/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/conferencier-management-leadership/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/conferencier-management-leadership/",
                        "name":  "Conferencier management : leadership et engagement",
                        "description":  "Une intervention sur le management motivationnel, le leadership et l\u0027engagement pour inspirer vos managers et lancer une dynamique.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/conferencier-management-leadership/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/conferencier-management-leadership/#service",
                        "name":  "Conferencier management",
                        "description":  "Une intervention sur le management motivationnel, le leadership et l\u0027engagement pour inspirer vos managers et lancer une dynamique.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "intervention conferencier management et leadership",
-                       "url":  "https://www.votre-site.fr/conferencier-management-leadership/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/conferencier-management-leadership/"
                    }
                ]
 }

@@ -1,4 +1,4 @@
-title: "Management Motivationnel"
+﻿title: "Management Motivationnel"
 description: "Ressources, formations et accompagnements pour renforcer l'engagement, la posture manageriale et la performance durable."
 url: "https://jergarcia-mngr-it.github.io"
 baseurl: "/management-motivationnel"
@@ -10,3 +10,4 @@ exclude:
   - README.md
   - publier-sur-github-pages.md
   - replace-domain.ps1
+

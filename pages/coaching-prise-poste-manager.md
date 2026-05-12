@@ -91,39 +91,39 @@ Oui. Il est souvent tres utile, car la promotion interne oblige a changer de pos
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/coaching-prise-poste-manager/#webpage",
-                       "url":  "https://www.votre-site.fr/coaching-prise-poste-manager/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-prise-poste-manager/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-prise-poste-manager/",
                        "name":  "Coaching de prise de poste manager : reussir ses 90 premiers jours",
                        "description":  "Accompagnement de prise de poste manageriale pour clarifier les priorites, gagner en legitimite et poser le bon cadre.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/coaching-prise-poste-manager/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-prise-poste-manager/#service",
                        "name":  "Coaching de prise de poste manager",
                        "description":  "Accompagnement de prise de poste manageriale pour clarifier les priorites, gagner en legitimite et poser le bon cadre.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "coaching de prise de poste manager",
-                       "url":  "https://www.votre-site.fr/coaching-prise-poste-manager/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-prise-poste-manager/"
                    }
                ]
 }

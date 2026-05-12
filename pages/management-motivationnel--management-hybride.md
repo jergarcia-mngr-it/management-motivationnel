@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/management-hybride-nouveaux-modes-travail/#article",
-                       "url":  "https://www.votre-site.fr/management-motivationnel/management-hybride-nouveaux-modes-travail/",
-                       "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/management-hybride-nouveaux-modes-travail/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/",
                        "headline":  "Management hybride : manager a distance et engager",
                        "description":  "Guide complet du management hybride : communication, cohesion, IA, onboarding et rituels pour manager efficacement a distance.",
                        "inLanguage":  "fr-FR",
@@ -52,12 +52,12 @@ page_type: article
                        "author":  {
                                       "@type":  "Organization",
                                       "name":  "Management Motivationnel",
-                                      "url":  "https://www.votre-site.fr/a-propos/"
+                                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                                   },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      },
                        "articleSection":  "Management hybride et nouveaux modes de travail",
                        "keywords":  [
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/management-hybride-nouveaux-modes-travail/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

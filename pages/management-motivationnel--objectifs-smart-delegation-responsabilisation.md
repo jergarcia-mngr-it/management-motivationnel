@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#article",
-                       "url":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
-                       "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
                        "headline":  "Delegation et objectifs SMART : responsabiliser l equipe",
                        "description":  "Apprenez a deleguer efficacement avec des objectifs SMART, des zones de decision claires et un suivi qui responsabilise.",
                        "inLanguage":  "fr-FR",
@@ -52,12 +52,12 @@ page_type: article
                        "author":  {
                                       "@type":  "Organization",
                                       "name":  "Management Motivationnel",
-                                      "url":  "https://www.votre-site.fr/a-propos/"
+                                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                                   },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      },
                        "articleSection":  "Outils de pilotage et leviers operationnels",
                        "keywords":  [
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

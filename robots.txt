@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://VOTRE-USERNAME.github.io/sitemap.xml
+Sitemap: https://jergarcia-mngr-it.github.io/management-motivationnel/sitemap.xml

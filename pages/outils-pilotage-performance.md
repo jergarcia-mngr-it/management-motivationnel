@@ -93,39 +93,39 @@ Un KPI suit une performance existante. Un OKR fixe une priorite de progression a
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/outils-pilotage-performance/#webpage",
-                       "url":  "https://www.votre-site.fr/outils-pilotage-performance/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-performance/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-performance/",
                        "name":  "Outils de pilotage performance : objectifs et feedback",
                        "description":  "Structurez vos outils de pilotage pour suivre la performance, clarifier les priorites et responsabiliser les equipes.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/outils-pilotage-performance/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-performance/#service",
                        "name":  "Outils de pilotage performance",
                        "description":  "Structurez vos outils de pilotage pour suivre la performance, clarifier les priorites et responsabiliser les equipes.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "outils de pilotage de la performance",
-                       "url":  "https://www.votre-site.fr/outils-pilotage-performance/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-performance/"
                    }
                ]
 }

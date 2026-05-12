@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
     "headline":  "Espaces de discussion au travail : methode pour les rendre efficaces",
     "description":  "Comment mettre en place des espaces de discussion efficaces pour reguler le travail, traiter les irritants et renforcer la cooperation.",
     "inLanguage":  "fr-FR",
@@ -49,12 +49,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Securite psychologique et QVCT",
     "keywords":  [

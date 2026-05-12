@@ -92,39 +92,39 @@ Il faut terminer avec des decisions, responsables, echeances et un rituel de sui
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/seminaire-engagement-strategique/#webpage",
-                       "url":  "https://www.votre-site.fr/seminaire-engagement-strategique/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/seminaire-engagement-strategique/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/seminaire-engagement-strategique/",
                        "name":  "Seminaire engagement strategique : aligner les equipes",
                        "description":  "Organisez un seminaire d\u0027engagement strategique pour clarifier le cap, renforcer l\u0027alignement et mobiliser les equipes.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/seminaire-engagement-strategique/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/seminaire-engagement-strategique/#service",
                        "name":  "Seminaire engagement strategique",
                        "description":  "Organisez un seminaire d\u0027engagement strategique pour clarifier le cap, renforcer l\u0027alignement et mobiliser les equipes.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "seminaire engagement strategique",
-                       "url":  "https://www.votre-site.fr/seminaire-engagement-strategique/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/seminaire-engagement-strategique/"
                    }
                ]
 }

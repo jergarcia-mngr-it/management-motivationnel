@@ -86,39 +86,39 @@ Une PME gagne souvent a commencer simple : priorites claires, quelques indicateu
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/comparatif-methodes-management-performance/#webpage",
-                       "url":  "https://www.votre-site.fr/comparatif-methodes-management-performance/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/comparatif-methodes-management-performance/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/comparatif-methodes-management-performance/",
                        "name":  "Methodes de performance : comparatif OKR, KPI, SMART",
                        "description":  "Comparez OKR, KPI, objectifs SMART et rituels de suivi pour choisir la bonne methode de management de la performance.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/comparatif-methodes-management-performance/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/comparatif-methodes-management-performance/#service",
                        "name":  "Methodes de performance",
                        "description":  "Comparez OKR, KPI, objectifs SMART et rituels de suivi pour choisir la bonne methode de management de la performance.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "comparatif methodes de management de la performance",
-                       "url":  "https://www.votre-site.fr/comparatif-methodes-management-performance/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/comparatif-methodes-management-performance/"
                    }
                ]
 }

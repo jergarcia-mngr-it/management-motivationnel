@@ -92,39 +92,39 @@ Un atelier peut durer une demi-journee, une journee ou s'integrer dans un semina
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/atelier-seminaire-cohesion-equipe/#webpage",
-                       "url":  "https://www.votre-site.fr/atelier-seminaire-cohesion-equipe/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/atelier-seminaire-cohesion-equipe/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/atelier-seminaire-cohesion-equipe/",
                        "name":  "Atelier cohesion d equipe : confiance et cooperation",
                        "description":  "Animez un atelier ou seminaire de cohesion pour renforcer la confiance, clarifier les modes de cooperation et remobiliser l\u0027equipe.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/atelier-seminaire-cohesion-equipe/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/atelier-seminaire-cohesion-equipe/#service",
                        "name":  "Atelier cohesion d equipe",
                        "description":  "Animez un atelier ou seminaire de cohesion pour renforcer la confiance, clarifier les modes de cooperation et remobiliser l\u0027equipe.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "ateliers et seminaires cohesion d\u0027equipe",
-                       "url":  "https://www.votre-site.fr/atelier-seminaire-cohesion-equipe/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/atelier-seminaire-cohesion-equipe/"
                    }
                ]
 }

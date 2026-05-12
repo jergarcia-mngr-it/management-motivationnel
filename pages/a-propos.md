@@ -7,7 +7,7 @@ page_type: site-page
 ---
 # A propos
 
-Cette page presente l'approche editoriale et professionnelle du projet Management Motivationnel. Elle doit etre personnalisee avec votre nom, votre parcours, vos references, vos preuves d'expertise et votre ton de marque.
+Management Motivationnel est un projet editorial et professionnel consacre aux leviers d'engagement au travail, a la posture manageriale, a la QVCT et aux nouveaux modes de travail.
 
 ## Conviction centrale
 
@@ -26,18 +26,13 @@ La motivation au travail ne repose ni sur des slogans ni sur la seule volonte in
 
 L'approche combine des apports conceptuels, des outils pratiques et un travail sur les situations reelles. L'objectif n'est pas d'ajouter une couche de methode, mais d'aider les managers et les organisations a rendre le travail plus clair, plus motivant et plus soutenable.
 
-## A personnaliser
+## Profil public
 
-Ajoutez ici :
+Vous pouvez retrouver le profil GitHub associe au projet ici :
 
-- votre nom et votre fonction ;
-- votre parcours ;
-- vos certifications ou formations ;
-- vos experiences significatives ;
-- vos publics habituels ;
-- vos references ou secteurs d'intervention ;
-- votre photo ou portrait professionnel ;
-- un lien vers LinkedIn ou un moyen direct de contact.
+[jergarcia-mngr-it sur GitHub](https://github.com/jergarcia-mngr-it)
+
+Cette page pourra ensuite etre enrichie avec un parcours professionnel, des references, des cas clients, des certifications ou un lien LinkedIn.
 
 ## Ressources pour decouvrir l'approche
 
@@ -58,21 +53,21 @@ Si votre projet concerne la formation, le coaching, la QVCT, les OKR ou le manag
     "@graph":  [
                    {
                        "@type":  "AboutPage",
-                       "@id":  "https://www.votre-site.fr/a-propos/#webpage",
-                       "url":  "https://www.votre-site.fr/a-propos/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/",
                        "name":  "A propos - Expertise en management motivationnel",
                        "description":  "Decouvrez l\u0027approche, les convictions et les themes d\u0027expertise autour du management motivationnel, de la QVCT et du leadership.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    }
                ]

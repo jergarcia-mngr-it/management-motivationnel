@@ -30,7 +30,9 @@ Pour preparer un premier echange, vous pouvez indiquer :
 
 ## Message de contact
 
-Remplacez cette section par votre formulaire de contact ou vos coordonnees.
+Pour le moment, le point de contact public peut etre votre profil GitHub :
+
+[Contacter via GitHub](https://github.com/jergarcia-mngr-it)
 
 **CTA :** Envoyez-moi un message pour decrire votre projet et organiser un premier echange.
 
@@ -47,21 +49,21 @@ Remplacez cette section par votre formulaire de contact ou vos coordonnees.
     "@graph":  [
                    {
                        "@type":  "ContactPage",
-                       "@id":  "https://www.votre-site.fr/contact/#webpage",
-                       "url":  "https://www.votre-site.fr/contact/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/contact/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/contact/",
                        "name":  "Contact - Echanger sur votre projet de management motivationnel",
                        "description":  "Contactez-moi pour une formation, un coaching ou un accompagnement en management motivationnel, OKR, QVCT, cohesion ou management hybride.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    }
                ]

@@ -1,4 +1,4 @@
-param(
+﻿param(
   [Parameter(Mandatory=$true)]
   [string]$Domain,
 
@@ -16,3 +16,4 @@ foreach ($file in $files) {
 }
 
 Write-Host "Domaine et marque remplaces."
+

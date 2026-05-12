@@ -92,39 +92,39 @@ La formation transmet des reperes et outils communs. Le coaching travaille une s
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/coach-professionnel-manager/#webpage",
-                       "url":  "https://www.votre-site.fr/coach-professionnel-manager/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coach-professionnel-manager/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coach-professionnel-manager/",
                        "name":  "Coach professionnel manager : posture et leadership",
                        "description":  "Coaching professionnel pour managers : posture, leadership, prise de recul, legitimite et situations manageriales sensibles.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/coach-professionnel-manager/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coach-professionnel-manager/#service",
                        "name":  "Coach professionnel manager",
                        "description":  "Coaching professionnel pour managers : posture, leadership, prise de recul, legitimite et situations manageriales sensibles.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "coach professionnel pour manager",
-                       "url":  "https://www.votre-site.fr/coach-professionnel-manager/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coach-professionnel-manager/"
                    }
                ]
 }

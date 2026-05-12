@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
     "headline":  "QVCT, teletravail et organisation : associer bien-etre et performance",
     "description":  "Integrez le teletravail et l\u0027organisation du travail dans une demarche QVCT concrete, loin de la fausse bienveillance.",
     "inLanguage":  "fr-FR",
@@ -49,12 +49,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Securite psychologique et QVCT",
     "keywords":  [

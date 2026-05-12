@@ -140,15 +140,15 @@ Contactez-moi pour echanger sur votre contexte et construire un accompagnement a
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/#webpage",
-                       "url":  "https://www.votre-site.fr/management-motivationnel/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/",
                        "name":  "Management motivationnel : engager durablement vos equipes",
                        "description":  "Decouvrez le management motivationnel : leviers d\u0027engagement, posture du manager, outils de pilotage, QVCT et management hybride.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "about":  [
@@ -160,12 +160,12 @@ Contactez-moi pour echanger sur votre contexte et construire un accompagnement a
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

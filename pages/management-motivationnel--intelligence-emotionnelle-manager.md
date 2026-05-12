@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
     "headline":  "Intelligence emotionnelle du manager : guide pratique",
     "description":  "Developpez l\u0027intelligence emotionnelle du manager pour mieux reguler les tensions, decider et accompagner les equipes.",
     "inLanguage":  "fr-FR",
@@ -50,12 +50,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Posture et legitimite du manager leader",
     "keywords":  [

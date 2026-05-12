@@ -92,39 +92,39 @@ Oui. Les managers jouent un role central dans la regulation de la charge, la cla
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/accompagnement-qvct-qualite-vie-travail/#webpage",
-                       "url":  "https://www.votre-site.fr/accompagnement-qvct-qualite-vie-travail/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-qvct-qualite-vie-travail/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-qvct-qualite-vie-travail/",
                        "name":  "Accompagnement QVCT : travail, engagement, performance",
                        "description":  "Structurez votre demarche QVCT avec une approche concrete : charge, cooperation, management, teletravail et performance durable.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/accompagnement-qvct-qualite-vie-travail/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-qvct-qualite-vie-travail/#service",
                        "name":  "Accompagnement QVCT",
                        "description":  "Structurez votre demarche QVCT avec une approche concrete : charge, cooperation, management, teletravail et performance durable.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "accompagnement qualite de vie au travail",
-                       "url":  "https://www.votre-site.fr/accompagnement-qvct-qualite-vie-travail/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-qvct-qualite-vie-travail/"
                    }
                ]
 }

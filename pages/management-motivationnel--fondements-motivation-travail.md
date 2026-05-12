@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/#article",
-                       "url":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/",
-                       "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/",
                        "headline":  "Management motivationnel : leviers de motivation au travail",
                        "description":  "Comprendre le management motivationnel, les theories de la motivation et les leviers qui renforcent durablement l\u0027engagement au travail.",
                        "inLanguage":  "fr-FR",
@@ -52,12 +52,12 @@ page_type: article
                        "author":  {
                                       "@type":  "Organization",
                                       "name":  "Management Motivationnel",
-                                      "url":  "https://www.votre-site.fr/a-propos/"
+                                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                                   },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      },
                        "articleSection":  "Fondements de la motivation au travail",
                        "keywords":  [
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

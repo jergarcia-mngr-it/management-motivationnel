@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/",
     "headline":  "Outils de pilotage managerial : objectifs et feedback",
     "description":  "Guide des outils de pilotage pour manager la performance : OKR, feedback, sens, delegation et objectifs SMART.",
     "inLanguage":  "fr-FR",
@@ -50,12 +50,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Outils de pilotage et leviers operationnels",
     "keywords":  [

@@ -159,51 +159,51 @@ Chaque organisation a ses tensions, ses contraintes et son niveau de maturite. L
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/services/#webpage",
-                       "url":  "https://www.votre-site.fr/services/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/services/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/services/",
                        "name":  "Services management motivationnel : formation et coaching",
                        "description":  "Decouvrez les services pour renforcer l\u0027engagement : formation management motivationnel, coaching manager, OKR, QVCT, cohesion et management hybride.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "ItemList",
-                       "@id":  "https://www.votre-site.fr/services/#services",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/services/#services",
                        "name":  "Services en management motivationnel",
                        "itemListElement":  [
                                                {
                                                    "@type":  "ListItem",
                                                    "position":  1,
                                                    "name":  "Formation management motivationnel",
-                                                   "url":  "https://www.votre-site.fr/formation-management-motivationnel/"
+                                                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/formation-management-motivationnel/"
                                                },
                                                {
                                                    "@type":  "ListItem",
                                                    "position":  2,
                                                    "name":  "Coaching manager",
-                                                   "url":  "https://www.votre-site.fr/coach-professionnel-manager/"
+                                                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coach-professionnel-manager/"
                                                },
                                                {
                                                    "@type":  "ListItem",
                                                    "position":  3,
                                                    "name":  "Accompagnement OKR",
-                                                   "url":  "https://www.votre-site.fr/accompagnement-methode-okr/"
+                                                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-methode-okr/"
                                                },
                                                {
                                                    "@type":  "ListItem",
                                                    "position":  4,
                                                    "name":  "Accompagnement QVCT",
-                                                   "url":  "https://www.votre-site.fr/accompagnement-qvct-qualite-vie-travail/"
+                                                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-qvct-qualite-vie-travail/"
                                                }
                                            ]
                    }

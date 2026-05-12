@@ -92,39 +92,39 @@ Il peut durer quelques ateliers ou s'inscrire sur plusieurs mois, selon les enje
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/coaching-comite-direction-codir/#webpage",
-                       "url":  "https://www.votre-site.fr/coaching-comite-direction-codir/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-comite-direction-codir/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-comite-direction-codir/",
                        "name":  "Coaching CODIR : alignement et cooperation dirigeante",
                        "description":  "Accompagnement de CODIR pour clarifier les priorites, fluidifier les decisions et renforcer la cooperation dirigeante.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/coaching-comite-direction-codir/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-comite-direction-codir/#service",
                        "name":  "Coaching CODIR",
                        "description":  "Accompagnement de CODIR pour clarifier les priorites, fluidifier les decisions et renforcer la cooperation dirigeante.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "coaching de comite de direction codir",
-                       "url":  "https://www.votre-site.fr/coaching-comite-direction-codir/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/coaching-comite-direction-codir/"
                    }
                ]
 }

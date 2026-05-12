@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#article",
-                       "url":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
-                       "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
                        "headline":  "Motivation intrinseque et extrinseque en management",
                        "description":  "Comprenez la difference entre motivation intrinseque et extrinseque, et comment favoriser autonomie, competence et appartenance au travail.",
                        "inLanguage":  "fr-FR",
@@ -52,12 +52,12 @@ page_type: article
                        "author":  {
                                       "@type":  "Organization",
                                       "name":  "Management Motivationnel",
-                                      "url":  "https://www.votre-site.fr/a-propos/"
+                                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                                   },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      },
                        "articleSection":  "Fondements de la motivation au travail",
                        "keywords":  [
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

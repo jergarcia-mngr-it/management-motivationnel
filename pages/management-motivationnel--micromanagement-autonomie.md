@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/#article",
-                       "url":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/",
-                       "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/",
                        "headline":  "Micromanagement : sortir du controle excessif",
                        "description":  "Identifiez les causes du micromanagement et decouvrez comment passer progressivement du controle excessif a l\u0027autonomie responsable.",
                        "inLanguage":  "fr-FR",
@@ -52,12 +52,12 @@ page_type: article
                        "author":  {
                                       "@type":  "Organization",
                                       "name":  "Management Motivationnel",
-                                      "url":  "https://www.votre-site.fr/a-propos/"
+                                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                                   },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      },
                        "articleSection":  "Posture et legitimite du manager leader",
                        "keywords":  [
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/micromanagement-autonomie/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

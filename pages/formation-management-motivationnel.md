@@ -92,39 +92,39 @@ Oui. Le programme peut etre ajuste selon vos enjeux : demotivation, transformati
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/formation-management-motivationnel/#webpage",
-                       "url":  "https://www.votre-site.fr/formation-management-motivationnel/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/formation-management-motivationnel/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/formation-management-motivationnel/",
                        "name":  "Formation management motivationnel : engager vos equipes",
                        "description":  "Formez vos managers au management motivationnel pour renforcer engagement, autonomie, reconnaissance et performance durable.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/formation-management-motivationnel/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/formation-management-motivationnel/#service",
                        "name":  "Formation management motivationnel",
                        "description":  "Formez vos managers au management motivationnel pour renforcer engagement, autonomie, reconnaissance et performance durable.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "formation management motivationnel",
-                       "url":  "https://www.votre-site.fr/formation-management-motivationnel/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/formation-management-motivationnel/"
                    }
                ]
 }

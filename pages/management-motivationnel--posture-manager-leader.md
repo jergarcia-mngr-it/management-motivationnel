@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/posture-legitimite-manager-leader/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/",
     "headline":  "Posture du manager leader : legitimite et autorite",
     "description":  "Guide complet pour developper une posture de manager leader, gagner en legitimite et manager avec intelligence emotionnelle.",
     "inLanguage":  "fr-FR",
@@ -50,12 +50,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Posture et legitimite du manager leader",
     "keywords":  [

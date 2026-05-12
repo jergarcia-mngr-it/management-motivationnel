@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
     "headline":  "Valorisation du travail : donner un feedback constructif",
     "description":  "Decouvrez la VST, une methode pour formuler des feedbacks factuels, utiles et motivants sans tomber dans la flatterie.",
     "inLanguage":  "fr-FR",
@@ -50,12 +50,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Outils de pilotage et leviers operationnels",
     "keywords":  [

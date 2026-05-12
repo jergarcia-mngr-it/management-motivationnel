@@ -91,39 +91,39 @@ Pas toujours. Un outil peut aider, mais la priorite est la qualite des objectifs
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/accompagnement-methode-okr/#webpage",
-                       "url":  "https://www.votre-site.fr/accompagnement-methode-okr/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-methode-okr/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-methode-okr/",
                        "name":  "Accompagnement methode OKR : aligner vos equipes sur les priorites",
                        "description":  "Mettez en place la methode OKR avec un accompagnement structure pour clarifier les objectifs et suivre les resultats.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/accompagnement-methode-okr/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-methode-okr/#service",
                        "name":  "Accompagnement methode OKR",
                        "description":  "Mettez en place la methode OKR avec un accompagnement structure pour clarifier les objectifs et suivre les resultats.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "accompagnement mise en place methode OKR",
-                       "url":  "https://www.votre-site.fr/accompagnement-methode-okr/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/accompagnement-methode-okr/"
                    }
                ]
 }

@@ -92,39 +92,39 @@ Oui. Une charte simple clarifie les canaux, les delais de reponse, les reunions 
     "@graph":  [
                    {
                        "@type":  "WebPage",
-                       "@id":  "https://www.votre-site.fr/outils-collaboratifs-equipe-hybride/#webpage",
-                       "url":  "https://www.votre-site.fr/outils-collaboratifs-equipe-hybride/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-collaboratifs-equipe-hybride/#webpage",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-collaboratifs-equipe-hybride/",
                        "name":  "Outils collaboratifs equipe hybride : cadrer les usages",
                        "description":  "Choisissez et cadrez vos outils collaboratifs pour ameliorer communication, suivi et cohesion en equipe hybride.",
                        "inLanguage":  "fr-FR",
                        "isPartOf":  {
                                         "@type":  "WebSite",
-                                        "@id":  "https://www.votre-site.fr/#website",
-                                        "url":  "https://www.votre-site.fr/",
+                                        "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/#website",
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/",
                                         "name":  "Management Motivationnel"
                                     },
                        "publisher":  {
                                          "@type":  "Organization",
                                          "name":  "Management Motivationnel",
-                                         "url":  "https://www.votre-site.fr/"
+                                         "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                      }
                    },
                    {
                        "@type":  "Service",
-                       "@id":  "https://www.votre-site.fr/outils-collaboratifs-equipe-hybride/#service",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-collaboratifs-equipe-hybride/#service",
                        "name":  "Outils collaboratifs equipe hybride",
                        "description":  "Choisissez et cadrez vos outils collaboratifs pour ameliorer communication, suivi et cohesion en equipe hybride.",
                        "provider":  {
                                         "@type":  "Organization",
                                         "name":  "Management Motivationnel",
-                                        "url":  "https://www.votre-site.fr/"
+                                        "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                                     },
                        "areaServed":  {
                                           "@type":  "Country",
                                           "name":  "France"
                                       },
                        "serviceType":  "outils collaboratifs pour equipe hybride",
-                       "url":  "https://www.votre-site.fr/outils-collaboratifs-equipe-hybride/"
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-collaboratifs-equipe-hybride/"
                    }
                ]
 }

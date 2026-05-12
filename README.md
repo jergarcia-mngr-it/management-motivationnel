@@ -1,37 +1,31 @@
-# Site GitHub Pages - Management Motivationnel
+﻿# Site GitHub Pages - Management Motivationnel
 
 Ce dossier contient une version Jekyll prete pour GitHub Pages.
 
 ## Publication recommandee
 
-Le plus simple est de publier en **site utilisateur GitHub Pages** :
+Ce projet est publie comme **site de depot GitHub Pages** :
 
-1. Creer un depot GitHub nomme `VOTRE-USERNAME.github.io`.
+1. Utiliser le depot GitHub `management-motivationnel`.
 2. Copier tout le contenu de ce dossier a la racine du depot.
-3. Remplacer `VOTRE-USERNAME` dans `_config.yml`.
-4. Remplacer `https://www.votre-site.fr` dans les pages et schemas JSON-LD par l'URL finale.
+3. Verifier que `_config.yml` contient `baseurl: "/management-motivationnel"`.
+4. Verifier que les schemas JSON-LD utilisent l'URL `https://jergarcia-mngr-it.github.io/management-motivationnel`.
 5. Pousser les fichiers sur la branche `main`.
 6. Dans GitHub : `Settings > Pages`.
 7. Choisir `Deploy from a branch`, branche `main`, dossier `/root`.
 
-Le site sera disponible a l'adresse :
+Le site est disponible a l'adresse :
 
-`https://VOTRE-USERNAME.github.io/`
+`https://jergarcia-mngr-it.github.io/management-motivationnel/`
 
-## Si vous utilisez un depot projet
-
-Si le depot n'est pas `VOTRE-USERNAME.github.io`, mais par exemple `management-motivationnel`, le site sera publie a :
-
-`https://VOTRE-USERNAME.github.io/management-motivationnel/`
-
-Dans ce cas, modifier `_config.yml` :
+Configuration `_config.yml` :
 
 ```yml
-url: "https://VOTRE-USERNAME.github.io"
+url: "https://jergarcia-mngr-it.github.io"
 baseurl: "/management-motivationnel"
 ```
 
-Et adapter les URLs absolues dans les schemas JSON-LD.
+Les URLs absolues des schemas JSON-LD doivent utiliser cette meme base.
 
 ## Fichiers importants
 
@@ -44,8 +38,9 @@ Et adapter les URLs absolues dans les schemas JSON-LD.
 
 ## Avant publication reelle
 
-- Personnaliser la page `/a-propos/`.
-- Ajouter le vrai formulaire ou email sur `/contact/`.
+- Enrichir la page `/a-propos/` avec les references et preuves d'expertise.
+- Ajouter un formulaire ou email sur `/contact/` si souhaite.
 - Ajouter mentions legales et politique de confidentialite.
-- Remplacer toutes les URLs placeholder.
+- Verifier les URLs du sitemap et des schemas.
 - Tester les schemas dans Google Rich Results Test apres publication.
+

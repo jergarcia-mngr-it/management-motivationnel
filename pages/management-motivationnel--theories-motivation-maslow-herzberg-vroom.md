@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
     "headline":  "Maslow, Herzberg, Vroom : theories de la motivation",
     "description":  "Un guide pratique pour comprendre Maslow, Herzberg et Vroom, et utiliser ces theories comme outils de diagnostic managerial.",
     "inLanguage":  "fr-FR",
@@ -50,12 +50,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Fondements de la motivation au travail",
     "keywords":  [

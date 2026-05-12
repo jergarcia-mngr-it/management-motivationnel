@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/equation-performance-durable/#article",
-    "url":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
-    "mainEntityOfPage":  "https://www.votre-site.fr/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/equation-performance-durable/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
     "headline":  "Performance durable : comprendre l\u0027equation competences x motivation",
     "description":  "Decouvrez pourquoi la performance durable repose sur l\u0027equilibre entre competences, motivation, cadre de travail et reconnaissance.",
     "inLanguage":  "fr-FR",
@@ -49,12 +49,12 @@ page_type: article
     "author":  {
                    "@type":  "Organization",
                    "name":  "Management Motivationnel",
-                   "url":  "https://www.votre-site.fr/a-propos/"
+                   "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/a-propos/"
                },
     "publisher":  {
                       "@type":  "Organization",
                       "name":  "Management Motivationnel",
-                      "url":  "https://www.votre-site.fr/"
+                      "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/"
                   },
     "articleSection":  "Fondements de la motivation au travail",
     "keywords":  [
