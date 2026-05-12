@@ -61,10 +61,10 @@ Le suivi se concentre sur les resultats et les apprentissages, pas seulement sur
 
 ## Articles pour approfondir
 
-- [Methode OKR](/management-motivationnel/methode-okr/)
-- [Outils de pilotage managerial](/management-motivationnel/outils-pilotage-managerial/)
-- [Objectifs SMART, delegation et responsabilisation](/management-motivationnel/objectifs-smart-delegation-responsabilisation/)
-- [Architecture de communication en management hybride](/management-motivationnel/architecture-communication-management-hybride/)
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
+- [Outils de pilotage managerial]({{ '/outils-pilotage-managerial/' | relative_url }})
+- [Objectifs SMART, delegation et responsabilisation]({{ '/objectifs-smart-delegation-responsabilisation/' | relative_url }})
+- [Architecture de communication en management hybride]({{ '/architecture-communication-management-hybride/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Pas toujours. Un outil peut aider, mais la priorite est la qualite des objectifs
 
 ## Call to action
 
-[Contactez-moi pour cadrer votre mise en place de la methode OKR](/contact/).
+[Contactez-moi pour cadrer votre mise en place de la methode OKR]({{ '/contact/' | relative_url }}).
 
 
 <script type="application/ld+json">

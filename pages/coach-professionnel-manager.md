@@ -61,10 +61,10 @@ Le coaching renforce l'ecoute, la qualite du feedback, la gestion des tensions e
 
 ## Articles pour approfondir
 
-- [Posture du manager leader](/management-motivationnel/posture-manager-leader/)
-- [Intelligence emotionnelle du manager](/management-motivationnel/intelligence-emotionnelle-manager/)
-- [Autorite formelle et legitimite manageriale](/management-motivationnel/autorite-formelle-legitimite-manageriale/)
-- [Gerer les desaccords et conflits](/management-motivationnel/gerer-desaccords-conflits-equipe/)
+- [Posture du manager leader]({{ '/posture-manager-leader/' | relative_url }})
+- [Intelligence emotionnelle du manager]({{ '/intelligence-emotionnelle-manager/' | relative_url }})
+- [Autorite formelle et legitimite manageriale]({{ '/autorite-formelle-legitimite-manageriale/' | relative_url }})
+- [Gerer les desaccords et conflits]({{ '/gerer-desaccords-conflits-equipe/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ La formation transmet des reperes et outils communs. Le coaching travaille une s
 
 ## Call to action
 
-[Contactez-moi pour echanger sur un besoin de coaching manager](/contact/).
+[Contactez-moi pour echanger sur un besoin de coaching manager]({{ '/contact/' | relative_url }}).
 
 
 

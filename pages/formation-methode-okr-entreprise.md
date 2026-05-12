@@ -61,10 +61,10 @@ Les OKR deviennent un support de dialogue sur les priorites, les arbitrages et l
 
 ## Articles pour approfondir
 
-- [Methode OKR](/management-motivationnel/methode-okr/)
-- [Objectifs SMART, delegation et responsabilisation](/management-motivationnel/objectifs-smart-delegation-responsabilisation/)
-- [Donner du sens au travail](/management-motivationnel/donner-du-sens-au-travail/)
-- [Valorisation systematique du travail](/management-motivationnel/valorisation-systematique-travail-vst/)
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
+- [Objectifs SMART, delegation et responsabilisation]({{ '/objectifs-smart-delegation-responsabilisation/' | relative_url }})
+- [Donner du sens au travail]({{ '/donner-du-sens-au-travail/' | relative_url }})
+- [Valorisation systematique du travail]({{ '/valorisation-systematique-travail-vst/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Oui. La formation peut etre adaptee a votre outil. Mais elle doit surtout clarif
 
 ## Call to action
 
-[Contactez-moi pour organiser une formation OKR en entreprise](/contact/).
+[Contactez-moi pour organiser une formation OKR en entreprise]({{ '/contact/' | relative_url }}).
 
 
 

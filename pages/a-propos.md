@@ -36,15 +36,15 @@ Cette page pourra ensuite etre enrichie avec un parcours professionnel, des refe
 
 ## Ressources pour decouvrir l'approche
 
-- [Management motivationnel : creer les conditions d'un engagement durable](/management-motivationnel/)
-- [Services en management motivationnel](/services/)
-- [Management motivationnel : comprendre les leviers de motivation au travail](/management-motivationnel/fondements-motivation-travail/)
-- [Posture du manager leader](/management-motivationnel/posture-manager-leader/)
-- [Securite psychologique et QVCT](/management-motivationnel/securite-psychologique-qvct/)
+- [Management motivationnel : creer les conditions d'un engagement durable]({{ '/' | relative_url }})
+- [Services en management motivationnel]({{ '/services/' | relative_url }})
+- [Management motivationnel : comprendre les leviers de motivation au travail]({{ '/fondements-motivation-travail/' | relative_url }})
+- [Posture du manager leader]({{ '/posture-manager-leader/' | relative_url }})
+- [Securite psychologique et QVCT]({{ '/securite-psychologique-qvct/' | relative_url }})
 
 ## Prendre contact
 
-Si votre projet concerne la formation, le coaching, la QVCT, les OKR ou le management hybride, vous pouvez partir de la page [Contact](/contact/).
+Si votre projet concerne la formation, le coaching, la QVCT, les OKR ou le management hybride, vous pouvez partir de la page [Contact]({{ '/contact/' | relative_url }}).
 
 
 <script type="application/ld+json">

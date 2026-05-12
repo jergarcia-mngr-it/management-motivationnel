@@ -61,10 +61,10 @@ La prevention devient visible quand elle produit des arbitrages, des decisions e
 
 ## Articles pour approfondir
 
-- [Securite psychologique et QVCT](/management-motivationnel/securite-psychologique-qvct/)
-- [Securite psychologique en equipe](/management-motivationnel/securite-psychologique-equipe/)
-- [Espaces de discussion au travail](/management-motivationnel/espaces-discussion-travail/)
-- [QVCT et teletravail](/management-motivationnel/qvct-teletravail-organisation/)
+- [Securite psychologique et QVCT]({{ '/securite-psychologique-qvct/' | relative_url }})
+- [Securite psychologique en equipe]({{ '/securite-psychologique-equipe/' | relative_url }})
+- [Espaces de discussion au travail]({{ '/espaces-discussion-travail/' | relative_url }})
+- [QVCT et teletravail]({{ '/qvct-teletravail-organisation/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ La QVCT agit sur les conditions de travail qui peuvent nourrir ou reduire les RP
 
 ## Call to action
 
-[Contactez-moi pour echanger sur votre demarche de prevention RPS](/contact/).
+[Contactez-moi pour echanger sur votre demarche de prevention RPS]({{ '/contact/' | relative_url }}).
 
 
 

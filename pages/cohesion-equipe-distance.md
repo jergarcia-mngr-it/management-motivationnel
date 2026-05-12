@@ -2,7 +2,7 @@
 layout: default
 title: "Cohesion d equipe a distance : rituels et pratiques"
 description: "Comment maintenir la cohesion d'une equipe a distance avec des rituels utiles, une charte de fonctionnement et une attention au collectif."
-permalink: /management-motivationnel/cohesion-equipe-distance/
+permalink: /cohesion-equipe-distance/
 page_type: article
 ---
 # Maintenir la cohesion d'equipe a distance : faire exister le collectif
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/maintenir-cohesion-equipe-distance/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/maintenir-cohesion-equipe-distance/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/maintenir-cohesion-equipe-distance/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/maintenir-cohesion-equipe-distance/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/maintenir-cohesion-equipe-distance/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/maintenir-cohesion-equipe-distance/",
     "headline":  "Cohesion d equipe a distance : rituels et pratiques",
     "description":  "Comment maintenir la cohesion d\u0027une equipe a distance avec des rituels utiles, une charte de fonctionnement et une attention au collectif.",
     "inLanguage":  "fr-FR",

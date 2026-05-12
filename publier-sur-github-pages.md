@@ -48,3 +48,4 @@ Vous pouvez quand meme publier en uploadant les fichiers via l'interface GitHub 
 4. Glisser tous les fichiers du dossier `site-github-pages`.
 5. Valider avec `Commit changes`.
 
+

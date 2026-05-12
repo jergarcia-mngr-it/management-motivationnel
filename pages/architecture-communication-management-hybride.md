@@ -2,7 +2,7 @@
 layout: default
 title: "Communication hybride : rituels, canaux et exemples"
 description: "Structurez la communication hybride avec les bons rituels, canaux synchrones et asynchrones pour eviter la saturation."
-permalink: /management-motivationnel/architecture-communication-management-hybride/
+permalink: /architecture-communication-management-hybride/
 page_type: article
 ---
 # Architecture de communication en management hybride : moins de bruit, plus de clarte
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/architecture-communication-management-hybride/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/architecture-communication-management-hybride/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/architecture-communication-management-hybride/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/architecture-communication-management-hybride/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/architecture-communication-management-hybride/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/architecture-communication-management-hybride/",
     "headline":  "Communication hybride : rituels, canaux et exemples",
     "description":  "Structurez la communication hybride avec les bons rituels, canaux synchrones et asynchrones pour eviter la saturation.",
     "inLanguage":  "fr-FR",

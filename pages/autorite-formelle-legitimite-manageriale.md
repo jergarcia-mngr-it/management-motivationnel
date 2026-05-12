@@ -2,7 +2,7 @@
 layout: default
 title: "Autorite formelle et legitimite manageriale"
 description: "Comprenez la difference entre autorite formelle et legitimite, puis decouvrez comment renforcer votre credibilite de manager."
-permalink: /management-motivationnel/autorite-formelle-legitimite-manageriale/
+permalink: /autorite-formelle-legitimite-manageriale/
 page_type: article
 ---
 # Autorite formelle et legitimite : comment construire sa credibilite manageriale
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/autorite-formelle-legitimite/",
     "headline":  "Autorite formelle et legitimite manageriale",
     "description":  "Comprenez la difference entre autorite formelle et legitimite, puis decouvrez comment renforcer votre credibilite de manager.",
     "inLanguage":  "fr-FR",

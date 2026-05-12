@@ -61,10 +61,10 @@ En travaillant la delegation, le feedback et l'autonomie, la formation aide les 
 
 ## Articles pour approfondir
 
-- [Posture du manager leader](/management-motivationnel/posture-manager-leader/)
-- [Autorite formelle et legitimite manageriale](/management-motivationnel/autorite-formelle-legitimite-manageriale/)
-- [Micromanagement et autonomie](/management-motivationnel/micromanagement-autonomie/)
-- [Delegation et responsabilisation](/management-motivationnel/objectifs-smart-delegation-responsabilisation/)
+- [Posture du manager leader]({{ '/posture-manager-leader/' | relative_url }})
+- [Autorite formelle et legitimite manageriale]({{ '/autorite-formelle-legitimite-manageriale/' | relative_url }})
+- [Micromanagement et autonomie]({{ '/micromanagement-autonomie/' | relative_url }})
+- [Delegation et responsabilisation]({{ '/objectifs-smart-delegation-responsabilisation/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Oui. C'est meme recommande. Les cas reels permettent de travailler les situation
 
 ## Call to action
 
-[Contactez-moi pour construire une formation adaptee a vos managers de proximite](/contact/).
+[Contactez-moi pour construire une formation adaptee a vos managers de proximite]({{ '/contact/' | relative_url }}).
 
 
 

@@ -61,10 +61,10 @@ La demarche gagne en impact lorsque les decisions sont priorisees, suivies et ev
 
 ## Articles pour approfondir
 
-- [Securite psychologique et QVCT](/management-motivationnel/securite-psychologique-qvct/)
-- [Espaces de discussion au travail](/management-motivationnel/espaces-discussion-travail/)
-- [QVCT et teletravail](/management-motivationnel/qvct-teletravail-organisation/)
-- [Management bienveillant et exigeant](/management-motivationnel/management-bienveillant-exigeant/)
+- [Securite psychologique et QVCT]({{ '/securite-psychologique-qvct/' | relative_url }})
+- [Espaces de discussion au travail]({{ '/espaces-discussion-travail/' | relative_url }})
+- [QVCT et teletravail]({{ '/qvct-teletravail-organisation/' | relative_url }})
+- [Management bienveillant et exigeant]({{ '/management-bienveillant-exigeant/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Oui. Les managers jouent un role central dans la regulation de la charge, la cla
 
 ## Call to action
 
-[Contactez-moi pour concevoir une demarche QVCT adaptee a votre organisation](/contact/).
+[Contactez-moi pour concevoir une demarche QVCT adaptee a votre organisation]({{ '/contact/' | relative_url }}).
 
 
 

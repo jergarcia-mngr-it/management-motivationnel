@@ -2,7 +2,7 @@
 layout: default
 title: "Espaces de discussion au travail : methode pour les rendre efficaces"
 description: "Comment mettre en place des espaces de discussion efficaces pour reguler le travail, traiter les irritants et renforcer la cooperation."
-permalink: /management-motivationnel/espaces-discussion-travail/
+permalink: /espaces-discussion-travail/
 page_type: article
 ---
 # Espaces de discussion au travail : transformer les tensions en decisions utiles
@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/espaces-discussion-travail/",
     "headline":  "Espaces de discussion au travail : methode pour les rendre efficaces",
     "description":  "Comment mettre en place des espaces de discussion efficaces pour reguler le travail, traiter les irritants et renforcer la cooperation.",
     "inLanguage":  "fr-FR",

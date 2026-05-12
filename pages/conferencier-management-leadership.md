@@ -55,10 +55,10 @@ Comment garder le collectif vivant dans les nouveaux modes de travail.
 
 ## Articles pour approfondir
 
-- [Management motivationnel](/management-motivationnel/fondements-motivation-travail/)
-- [Posture du manager leader](/management-motivationnel/posture-manager-leader/)
-- [Management hybride](/management-motivationnel/management-hybride/)
-- [Motivation intrinseque et extrinseque](/management-motivationnel/motivation-intrinseque-extrinseque/)
+- [Management motivationnel]({{ '/fondements-motivation-travail/' | relative_url }})
+- [Posture du manager leader]({{ '/posture-manager-leader/' | relative_url }})
+- [Management hybride]({{ '/management-hybride/' | relative_url }})
+- [Motivation intrinseque et extrinseque]({{ '/motivation-intrinseque-extrinseque/' | relative_url }})
 
 ## FAQ
 
@@ -76,7 +76,7 @@ Oui. L'intervention doit etre adaptee au public, au contexte, aux mots de l'orga
 
 ## Call to action
 
-[Contactez-moi pour preparer une intervention management et leadership](/contact/).
+[Contactez-moi pour preparer une intervention management et leadership]({{ '/contact/' | relative_url }}).
 
 
 

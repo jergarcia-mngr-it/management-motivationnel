@@ -55,10 +55,10 @@ Utiles pour clarifier une mission, une delegation ou un resultat operationnel.
 
 ## Articles pour approfondir
 
-- [Methode OKR](/management-motivationnel/methode-okr/)
-- [Objectifs SMART, delegation et responsabilisation](/management-motivationnel/objectifs-smart-delegation-responsabilisation/)
-- [Outils de pilotage managerial](/management-motivationnel/outils-pilotage-managerial/)
-- [Donner du sens au travail](/management-motivationnel/donner-du-sens-au-travail/)
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
+- [Objectifs SMART, delegation et responsabilisation]({{ '/objectifs-smart-delegation-responsabilisation/' | relative_url }})
+- [Outils de pilotage managerial]({{ '/outils-pilotage-managerial/' | relative_url }})
+- [Donner du sens au travail]({{ '/donner-du-sens-au-travail/' | relative_url }})
 
 ## FAQ
 
@@ -76,7 +76,7 @@ Une PME gagne souvent a commencer simple : priorites claires, quelques indicateu
 
 ## Call to action
 
-[Contactez-moi pour choisir la methode de pilotage la plus adaptee a votre organisation](/contact/).
+[Contactez-moi pour choisir la methode de pilotage la plus adaptee a votre organisation]({{ '/contact/' | relative_url }}).
 
 
 

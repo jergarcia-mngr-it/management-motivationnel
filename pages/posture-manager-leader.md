@@ -2,7 +2,7 @@
 layout: default
 title: "Posture du manager leader : legitimite et autorite"
 description: "Guide complet pour developper une posture de manager leader, gagner en legitimite et manager avec intelligence emotionnelle."
-permalink: /management-motivationnel/posture-manager-leader/
+permalink: /posture-manager-leader/
 page_type: article
 ---
 # Posture du manager leader : passer du chef legitime sur le papier au leader credible
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/",
     "headline":  "Posture du manager leader : legitimite et autorite",
     "description":  "Guide complet pour developper une posture de manager leader, gagner en legitimite et manager avec intelligence emotionnelle.",
     "inLanguage":  "fr-FR",

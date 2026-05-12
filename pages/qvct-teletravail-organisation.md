@@ -2,7 +2,7 @@
 layout: default
 title: "QVCT, teletravail et organisation : associer bien-etre et performance"
 description: "Integrez le teletravail et l'organisation du travail dans une demarche QVCT concrete, loin de la fausse bienveillance."
-permalink: /management-motivationnel/qvct-teletravail-organisation/
+permalink: /qvct-teletravail-organisation/
 page_type: article
 ---
 # QVCT et teletravail : organiser le travail pour proteger l'engagement
@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/qvct-teletravail-organisation/",
     "headline":  "QVCT, teletravail et organisation : associer bien-etre et performance",
     "description":  "Integrez le teletravail et l\u0027organisation du travail dans une demarche QVCT concrete, loin de la fausse bienveillance.",
     "inLanguage":  "fr-FR",

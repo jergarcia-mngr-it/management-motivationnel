@@ -61,10 +61,10 @@ Le seminaire produit des prochaines etapes claires, pas seulement une inspiratio
 
 ## Articles pour approfondir
 
-- [Donner du sens au travail](/management-motivationnel/donner-du-sens-au-travail/)
-- [Methode OKR](/management-motivationnel/methode-okr/)
-- [Posture du manager leader](/management-motivationnel/posture-manager-leader/)
-- [Management motivationnel](/management-motivationnel/fondements-motivation-travail/)
+- [Donner du sens au travail]({{ '/donner-du-sens-au-travail/' | relative_url }})
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
+- [Posture du manager leader]({{ '/posture-manager-leader/' | relative_url }})
+- [Management motivationnel]({{ '/fondements-motivation-travail/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Il faut terminer avec des decisions, responsables, echeances et un rituel de sui
 
 ## Call to action
 
-[Contactez-moi pour concevoir votre seminaire d'engagement strategique](/contact/).
+[Contactez-moi pour concevoir votre seminaire d'engagement strategique]({{ '/contact/' | relative_url }}).
 
 
 

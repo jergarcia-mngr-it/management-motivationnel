@@ -2,7 +2,7 @@
 layout: default
 title: "Valorisation du travail : donner un feedback constructif"
 description: "Decouvrez la VST, une methode pour formuler des feedbacks factuels, utiles et motivants sans tomber dans la flatterie."
-permalink: /management-motivationnel/valorisation-systematique-travail-vst/
+permalink: /valorisation-systematique-travail-vst/
 page_type: article
 ---
 # Valorisation systematique du travail : donner un feedback qui fait progresser
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/valorisation-systematique-travail-vst/",
     "headline":  "Valorisation du travail : donner un feedback constructif",
     "description":  "Decouvrez la VST, une methode pour formuler des feedbacks factuels, utiles et motivants sans tomber dans la flatterie.",
     "inLanguage":  "fr-FR",

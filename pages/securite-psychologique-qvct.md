@@ -2,7 +2,7 @@
 layout: default
 title: "Securite psychologique et QVCT : creer un climat de travail performant"
 description: "Guide pour comprendre la securite psychologique, la QVCT et les pratiques qui permettent a une equipe de performer sans s'epuiser."
-permalink: /management-motivationnel/securite-psychologique-qvct/
+permalink: /securite-psychologique-qvct/
 page_type: article
 ---
 # Securite psychologique et QVCT : creer un climat de confiance sans baisser l'exigence
@@ -39,9 +39,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/#article",
-                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/",
-                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/",
                        "headline":  "Securite psychologique et QVCT : creer un climat de travail performant",
                        "description":  "Guide pour comprendre la securite psychologique, la QVCT et les pratiques qui permettent a une equipe de performer sans s\u0027epuiser.",
                        "inLanguage":  "fr-FR",
@@ -68,7 +68,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

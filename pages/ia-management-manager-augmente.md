@@ -2,7 +2,7 @@
 layout: default
 title: "IA et management : utiliser l intelligence augmentee"
 description: "Comment les managers peuvent utiliser l'IA pour les syntheses, analyses et feedbacks tout en renforcant leur valeur relationnelle."
-permalink: /management-motivationnel/ia-management-manager-augmente/
+permalink: /ia-management-manager-augmente/
 page_type: article
 ---
 # IA et intelligence augmentee du manager : automatiser l'analyse, renforcer la relation
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/ia-intelligence-augmentee-manager/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/ia-intelligence-augmentee-manager/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/ia-intelligence-augmentee-manager/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/ia-intelligence-augmentee-manager/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/ia-intelligence-augmentee-manager/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/ia-intelligence-augmentee-manager/",
     "headline":  "IA et management : utiliser l intelligence augmentee",
     "description":  "Comment les managers peuvent utiliser l\u0027IA pour les syntheses, analyses et feedbacks tout en renforcant leur valeur relationnelle.",
     "inLanguage":  "fr-FR",

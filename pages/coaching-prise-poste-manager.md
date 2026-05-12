@@ -61,10 +61,10 @@ Chaque seance debouche sur des decisions ou actions : conversations a mener, pri
 
 ## Articles pour approfondir
 
-- [Posture du manager leader](/management-motivationnel/posture-manager-leader/)
-- [Autorite formelle et legitimite manageriale](/management-motivationnel/autorite-formelle-legitimite-manageriale/)
-- [Micromanagement et autonomie](/management-motivationnel/micromanagement-autonomie/)
-- [Objectifs SMART, delegation et responsabilisation](/management-motivationnel/objectifs-smart-delegation-responsabilisation/)
+- [Posture du manager leader]({{ '/posture-manager-leader/' | relative_url }})
+- [Autorite formelle et legitimite manageriale]({{ '/autorite-formelle-legitimite-manageriale/' | relative_url }})
+- [Micromanagement et autonomie]({{ '/micromanagement-autonomie/' | relative_url }})
+- [Objectifs SMART, delegation et responsabilisation]({{ '/objectifs-smart-delegation-responsabilisation/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Oui. Il est souvent tres utile, car la promotion interne oblige a changer de pos
 
 ## Call to action
 
-[Contactez-moi pour organiser un coaching de prise de poste manager](/contact/).
+[Contactez-moi pour organiser un coaching de prise de poste manager]({{ '/contact/' | relative_url }}).
 
 
 <script type="application/ld+json">

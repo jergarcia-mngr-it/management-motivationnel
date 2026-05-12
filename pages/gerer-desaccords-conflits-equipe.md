@@ -2,7 +2,7 @@
 layout: default
 title: "Gerer les desaccords et conflits : une approche creative du management"
 description: "Apprenez a gerer les desaccords et conflits en equipe avec une approche constructive inspiree du management creatif."
-permalink: /management-motivationnel/gerer-desaccords-conflits-equipe/
+permalink: /gerer-desaccords-conflits-equipe/
 page_type: article
 ---
 # Gerer les desaccords et conflits : transformer les differences en intelligence collective
@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/gestion-desaccords-conflits/",
     "headline":  "Gerer les desaccords et conflits : une approche creative du management",
     "description":  "Apprenez a gerer les desaccords et conflits en equipe avec une approche constructive inspiree du management creatif.",
     "inLanguage":  "fr-FR",

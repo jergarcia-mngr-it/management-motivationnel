@@ -62,10 +62,10 @@ Un bon pilotage donne de l'autonomie dans un cadre clair, au lieu de multiplier 
 
 ## Articles pour approfondir
 
-- [Outils de pilotage managerial](/management-motivationnel/outils-pilotage-managerial/)
-- [Methode OKR](/management-motivationnel/methode-okr/)
-- [Objectifs SMART, delegation et responsabilisation](/management-motivationnel/objectifs-smart-delegation-responsabilisation/)
-- [Valorisation systematique du travail](/management-motivationnel/valorisation-systematique-travail-vst/)
+- [Outils de pilotage managerial]({{ '/outils-pilotage-managerial/' | relative_url }})
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
+- [Objectifs SMART, delegation et responsabilisation]({{ '/objectifs-smart-delegation-responsabilisation/' | relative_url }})
+- [Valorisation systematique du travail]({{ '/valorisation-systematique-travail-vst/' | relative_url }})
 
 ## FAQ
 
@@ -83,7 +83,7 @@ Un KPI suit une performance existante. Un OKR fixe une priorite de progression a
 
 ## Call to action
 
-[Contactez-moi pour structurer vos outils de pilotage de la performance](/contact/).
+[Contactez-moi pour structurer vos outils de pilotage de la performance]({{ '/contact/' | relative_url }}).
 
 
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Motivation intrinseque et extrinseque en management"
 description: "Comprenez la difference entre motivation intrinseque et extrinseque, et comment favoriser autonomie, competence et appartenance au travail."
-permalink: /management-motivationnel/motivation-intrinseque-extrinseque/
+permalink: /motivation-intrinseque-extrinseque/
 page_type: article
 ---
 # Motivation intrinseque et extrinseque : comment passer de la contrainte a l'engagement
@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#article",
-                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
-                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/",
                        "headline":  "Motivation intrinseque et extrinseque en management",
                        "description":  "Comprenez la difference entre motivation intrinseque et extrinseque, et comment favoriser autonomie, competence et appartenance au travail.",
                        "inLanguage":  "fr-FR",
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/motivation-intrinseque-extrinseque/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

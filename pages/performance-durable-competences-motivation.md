@@ -2,7 +2,7 @@
 layout: default
 title: "Performance durable : comprendre l'equation competences x motivation"
 description: "Decouvrez pourquoi la performance durable repose sur l'equilibre entre competences, motivation, cadre de travail et reconnaissance."
-permalink: /management-motivationnel/performance-durable-competences-motivation/
+permalink: /performance-durable-competences-motivation/
 page_type: article
 ---
 # Performance durable : pourquoi competences et motivation doivent avancer ensemble
@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/equation-performance-durable/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/equation-performance-durable/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/equation-performance-durable/",
     "headline":  "Performance durable : comprendre l\u0027equation competences x motivation",
     "description":  "Decouvrez pourquoi la performance durable repose sur l\u0027equilibre entre competences, motivation, cadre de travail et reconnaissance.",
     "inLanguage":  "fr-FR",

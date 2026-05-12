@@ -2,7 +2,7 @@
 layout: default
 title: "Outils de pilotage managerial : objectifs et feedback"
 description: "Guide des outils de pilotage pour manager la performance : OKR, feedback, sens, delegation et objectifs SMART."
-permalink: /management-motivationnel/outils-pilotage-managerial/
+permalink: /outils-pilotage-managerial/
 page_type: article
 ---
 # Outils de pilotage managerial : fixer le cap, clarifier le travail et renforcer l'engagement
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/",
     "headline":  "Outils de pilotage managerial : objectifs et feedback",
     "description":  "Guide des outils de pilotage pour manager la performance : OKR, feedback, sens, delegation et objectifs SMART.",
     "inLanguage":  "fr-FR",

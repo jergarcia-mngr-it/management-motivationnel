@@ -2,7 +2,7 @@
 layout: default
 title: "Delegation et objectifs SMART : responsabiliser l equipe"
 description: "Apprenez a deleguer efficacement avec des objectifs SMART, des zones de decision claires et un suivi qui responsabilise."
-permalink: /management-motivationnel/objectifs-smart-delegation-responsabilisation/
+permalink: /objectifs-smart-delegation-responsabilisation/
 page_type: article
 ---
 # Delegation et responsabilisation : clarifier sans controler excessivement
@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#article",
-                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
-                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/",
                        "headline":  "Delegation et objectifs SMART : responsabiliser l equipe",
                        "description":  "Apprenez a deleguer efficacement avec des objectifs SMART, des zones de decision claires et un suivi qui responsabilise.",
                        "inLanguage":  "fr-FR",
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/delegation-responsabilisation-objectifs-smart/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

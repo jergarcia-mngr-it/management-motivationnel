@@ -2,7 +2,7 @@
 layout: default
 title: "Salaire et motivation : peut-on motiver sans parler d'argent ?"
 description: "Le salaire motive-t-il vraiment ? Comprenez ses limites, son role de facteur d'hygiene et les leviers non financiers d'engagement."
-permalink: /management-motivationnel/salaire-motivation/
+permalink: /salaire-motivation/
 page_type: article
 ---
 # Salaire et motivation : ce que l'argent peut et ne peut pas faire
@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/salaire-motivation/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/salaire-motivation/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/salaire-motivation/",
     "headline":  "Salaire et motivation : peut-on motiver sans parler d\u0027argent ?",
     "description":  "Le salaire motive-t-il vraiment ? Comprenez ses limites, son role de facteur d\u0027hygiene et les leviers non financiers d\u0027engagement.",
     "inLanguage":  "fr-FR",

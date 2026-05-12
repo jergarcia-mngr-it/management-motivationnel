@@ -2,7 +2,7 @@
 layout: default
 title: "Intelligence emotionnelle du manager : guide pratique"
 description: "Developpez l'intelligence emotionnelle du manager pour mieux reguler les tensions, decider et accompagner les equipes."
-permalink: /management-motivationnel/intelligence-emotionnelle-manager/
+permalink: /intelligence-emotionnelle-manager/
 page_type: article
 ---
 # Intelligence emotionnelle du manager : mieux se connaitre pour mieux manager
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/intelligence-emotionnelle-manager/",
     "headline":  "Intelligence emotionnelle du manager : guide pratique",
     "description":  "Developpez l\u0027intelligence emotionnelle du manager pour mieux reguler les tensions, decider et accompagner les equipes.",
     "inLanguage":  "fr-FR",

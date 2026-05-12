@@ -61,10 +61,10 @@ Lorsque le CODIR est aligne, les managers et equipes recoivent des signaux plus 
 
 ## Articles pour approfondir
 
-- [Donner du sens au travail](/management-motivationnel/donner-du-sens-au-travail/)
-- [Gerer les desaccords et conflits](/management-motivationnel/gerer-desaccords-conflits-equipe/)
-- [Autorite formelle et legitimite](/management-motivationnel/autorite-formelle-legitimite-manageriale/)
-- [Methode OKR](/management-motivationnel/methode-okr/)
+- [Donner du sens au travail]({{ '/donner-du-sens-au-travail/' | relative_url }})
+- [Gerer les desaccords et conflits]({{ '/gerer-desaccords-conflits-equipe/' | relative_url }})
+- [Autorite formelle et legitimite]({{ '/autorite-formelle-legitimite-manageriale/' | relative_url }})
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Il peut durer quelques ateliers ou s'inscrire sur plusieurs mois, selon les enje
 
 ## Call to action
 
-[Contactez-moi pour cadrer un accompagnement de votre comite de direction](/contact/).
+[Contactez-moi pour cadrer un accompagnement de votre comite de direction]({{ '/contact/' | relative_url }}).
 
 
 

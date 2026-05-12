@@ -44,3 +44,4 @@ Les URLs absolues des schemas JSON-LD doivent utiliser cette meme base.
 - Verifier les URLs du sitemap et des schemas.
 - Tester les schemas dans Google Rich Results Test apres publication.
 
+

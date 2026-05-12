@@ -61,10 +61,10 @@ Le diagnostic aide a preserver cohesion, engagement et conditions de travail dan
 
 ## Articles pour approfondir
 
-- [QVCT et teletravail](/management-motivationnel/qvct-teletravail-organisation/)
-- [Management hybride](/management-motivationnel/management-hybride/)
-- [Architecture de communication en management hybride](/management-motivationnel/architecture-communication-management-hybride/)
-- [Maintenir la cohesion d'equipe a distance](/management-motivationnel/cohesion-equipe-distance/)
+- [QVCT et teletravail]({{ '/qvct-teletravail-organisation/' | relative_url }})
+- [Management hybride]({{ '/management-hybride/' | relative_url }})
+- [Architecture de communication en management hybride]({{ '/architecture-communication-management-hybride/' | relative_url }})
+- [Maintenir la cohesion d'equipe a distance]({{ '/cohesion-equipe-distance/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Oui. Il est particulierement utile quand l'equipe alterne presentiel et distance
 
 ## Call to action
 
-[Contactez-moi pour lancer un diagnostic teletravail dans votre equipe](/contact/).
+[Contactez-moi pour lancer un diagnostic teletravail dans votre equipe]({{ '/contact/' | relative_url }}).
 
 
 

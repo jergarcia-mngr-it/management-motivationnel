@@ -61,10 +61,10 @@ Les outils soutiennent le travail collectif au lieu de fragmenter l'attention.
 
 ## Articles pour approfondir
 
-- [Architecture de communication en management hybride](/management-motivationnel/architecture-communication-management-hybride/)
-- [Management hybride](/management-motivationnel/management-hybride/)
-- [Maintenir la cohesion d'equipe a distance](/management-motivationnel/cohesion-equipe-distance/)
-- [QVCT et teletravail](/management-motivationnel/qvct-teletravail-organisation/)
+- [Architecture de communication en management hybride]({{ '/architecture-communication-management-hybride/' | relative_url }})
+- [Management hybride]({{ '/management-hybride/' | relative_url }})
+- [Maintenir la cohesion d'equipe a distance]({{ '/cohesion-equipe-distance/' | relative_url }})
+- [QVCT et teletravail]({{ '/qvct-teletravail-organisation/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Oui. Une charte simple clarifie les canaux, les delais de reponse, les reunions 
 
 ## Call to action
 
-[Contactez-moi pour structurer les usages collaboratifs de votre equipe hybride](/contact/).
+[Contactez-moi pour structurer les usages collaboratifs de votre equipe hybride]({{ '/contact/' | relative_url }}).
 
 
 

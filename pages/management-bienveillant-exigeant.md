@@ -2,7 +2,7 @@
 layout: default
 title: "Management bienveillant et exigeant : concilier soutien et performance"
 description: "Apprenez a pratiquer un management bienveillant et exigeant, capable de soutenir les personnes sans renoncer a la performance."
-permalink: /management-motivationnel/management-bienveillant-exigeant/
+permalink: /management-bienveillant-exigeant/
 page_type: article
 ---
 # Management bienveillant et exigeant : soutenir sans renoncer au niveau d'attente
@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/posture-legitimite-manager-leader/management-bienveillant-exigeant/",
     "headline":  "Management bienveillant et exigeant : concilier soutien et performance",
     "description":  "Apprenez a pratiquer un management bienveillant et exigeant, capable de soutenir les personnes sans renoncer a la performance.",
     "inLanguage":  "fr-FR",

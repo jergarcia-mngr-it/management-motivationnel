@@ -2,7 +2,7 @@
 layout: default
 title: "Methode OKR : guide complet pour aligner les equipes sur les resultats"
 description: "Comprenez la methode OKR, ses differences avec les KPI et les etapes pour la deployer dans une equipe ou une entreprise."
-permalink: /management-motivationnel/methode-okr/
+permalink: /methode-okr/
 page_type: article
 ---
 # Methode OKR : passer d'un pilotage par les taches a un pilotage par les resultats
@@ -39,9 +39,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/#article",
-                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/",
-                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/",
                        "headline":  "Methode OKR : guide complet pour aligner les equipes sur les resultats",
                        "description":  "Comprenez la methode OKR, ses differences avec les KPI et les etapes pour la deployer dans une equipe ou une entreprise.",
                        "inLanguage":  "fr-FR",
@@ -68,7 +68,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/guide-methode-okr/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

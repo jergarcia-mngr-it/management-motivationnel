@@ -2,7 +2,7 @@
 layout: default
 title: "Securite psychologique en equipe : definition et exemples"
 description: "Comprenez la securite psychologique en equipe et decouvrez comment permettre aux collaborateurs de parler erreurs, doutes et idees."
-permalink: /management-motivationnel/securite-psychologique-equipe/
+permalink: /securite-psychologique-equipe/
 page_type: article
 ---
 # Securite psychologique en equipe : permettre de dire ce qui doit etre dit
@@ -40,9 +40,9 @@ page_type: article
     "@graph":  [
                    {
                        "@type":  "BlogPosting",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/#article",
-                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/",
-                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/#article",
+                       "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/",
+                       "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/",
                        "headline":  "Securite psychologique en equipe : definition et exemples",
                        "description":  "Comprenez la securite psychologique en equipe et decouvrez comment permettre aux collaborateurs de parler erreurs, doutes et idees.",
                        "inLanguage":  "fr-FR",
@@ -69,7 +69,7 @@ page_type: article
                    },
                    {
                        "@type":  "FAQPage",
-                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/#faq",
+                       "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/securite-psychologique-qvct/securite-psychologique-equipe/#faq",
                        "mainEntity":  [
                                           {
                                               "@type":  "Question",

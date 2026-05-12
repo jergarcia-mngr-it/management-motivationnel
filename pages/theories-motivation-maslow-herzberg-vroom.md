@@ -2,7 +2,7 @@
 layout: default
 title: "Maslow, Herzberg, Vroom : theories de la motivation"
 description: "Un guide pratique pour comprendre Maslow, Herzberg et Vroom, et utiliser ces theories comme outils de diagnostic managerial."
-permalink: /management-motivationnel/theories-motivation-maslow-herzberg-vroom/
+permalink: /theories-motivation-maslow-herzberg-vroom/
 page_type: article
 ---
 # Maslow, Herzberg, Vroom : comment utiliser les theories de la motivation en management
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/fondements-motivation-travail/theories-motivation-maslow-herzberg-vroom/",
     "headline":  "Maslow, Herzberg, Vroom : theories de la motivation",
     "description":  "Un guide pratique pour comprendre Maslow, Herzberg et Vroom, et utiliser ces theories comme outils de diagnostic managerial.",
     "inLanguage":  "fr-FR",

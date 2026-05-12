@@ -2,7 +2,7 @@
 layout: default
 title: "Onboarding hybride : integrer a distance"
 description: "Structurez un onboarding hybride efficace pour inclure les nouveaux collaborateurs dans une organisation dispersee."
-permalink: /management-motivationnel/onboarding-hybride/
+permalink: /onboarding-hybride/
 page_type: article
 ---
 # Onboarding hybride : integrer un nouveau collaborateur quand l'equipe est dispersee
@@ -38,9 +38,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/onboarding-hybride/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/onboarding-hybride/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/management-hybride-nouveaux-modes-travail/onboarding-hybride/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/onboarding-hybride/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/onboarding-hybride/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-hybride-nouveaux-modes-travail/onboarding-hybride/",
     "headline":  "Onboarding hybride : integrer a distance",
     "description":  "Structurez un onboarding hybride efficace pour inclure les nouveaux collaborateurs dans une organisation dispersee.",
     "inLanguage":  "fr-FR",

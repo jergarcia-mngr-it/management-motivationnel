@@ -61,10 +61,10 @@ L'objectif est de renforcer l'engagement sans ajouter de pression inutile. Les m
 
 ## Articles pour approfondir
 
-- [Management motivationnel : comprendre les leviers de motivation au travail](/management-motivationnel/fondements-motivation-travail/)
-- [Motivation intrinseque et extrinseque](/management-motivationnel/motivation-intrinseque-extrinseque/)
-- [Management bienveillant et exigeant](/management-motivationnel/management-bienveillant-exigeant/)
-- [Valorisation systematique du travail](/management-motivationnel/valorisation-systematique-travail-vst/)
+- [Management motivationnel : comprendre les leviers de motivation au travail]({{ '/fondements-motivation-travail/' | relative_url }})
+- [Motivation intrinseque et extrinseque]({{ '/motivation-intrinseque-extrinseque/' | relative_url }})
+- [Management bienveillant et exigeant]({{ '/management-bienveillant-exigeant/' | relative_url }})
+- [Valorisation systematique du travail]({{ '/valorisation-systematique-travail-vst/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Oui. Le programme peut etre ajuste selon vos enjeux : demotivation, transformati
 
 ## Call to action
 
-[Contactez-moi pour construire une formation management motivationnel adaptee a vos managers](/contact/).
+[Contactez-moi pour construire une formation management motivationnel adaptee a vos managers]({{ '/contact/' | relative_url }}).
 
 
 

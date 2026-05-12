@@ -38,9 +38,9 @@ Pour le moment, le point de contact public peut etre votre profil GitHub :
 
 ## Pages utiles avant de me contacter
 
-- [Services en management motivationnel](/services/)
-- [Management motivationnel : creer les conditions d'un engagement durable](/management-motivationnel/)
-- [Services en management motivationnel](/services/)
+- [Services en management motivationnel]({{ '/services/' | relative_url }})
+- [Management motivationnel : creer les conditions d'un engagement durable]({{ '/' | relative_url }})
+- [Services en management motivationnel]({{ '/services/' | relative_url }})
 
 
 <script type="application/ld+json">

@@ -21,13 +21,13 @@ Une formation pour aider les managers a comprendre les ressorts de la motivation
 - Savoir motiver sans surcontroler ni manipuler.
 - Installer des pratiques de feedback, delegation et reconnaissance.
 
-**Page associee :** [Formation management motivationnel](/formation-management-motivationnel/)
+**Page associee :** [Formation management motivationnel]({{ '/formation-management-motivationnel/' | relative_url }})
 
 **Articles utiles :**
 
-- [Management motivationnel : comprendre les leviers de motivation au travail](/management-motivationnel/fondements-motivation-travail/)
-- [Motivation intrinseque et extrinseque](/management-motivationnel/motivation-intrinseque-extrinseque/)
-- [Management bienveillant et exigeant](/management-motivationnel/management-bienveillant-exigeant/)
+- [Management motivationnel : comprendre les leviers de motivation au travail]({{ '/fondements-motivation-travail/' | relative_url }})
+- [Motivation intrinseque et extrinseque]({{ '/motivation-intrinseque-extrinseque/' | relative_url }})
+- [Management bienveillant et exigeant]({{ '/management-bienveillant-exigeant/' | relative_url }})
 
 ## Coaching individuel de manager
 
@@ -43,14 +43,14 @@ Un accompagnement personnalise pour travailler la posture, la legitimite, les si
 
 **Pages associees :**
 
-- [Coach professionnel pour manager](/coach-professionnel-manager/)
-- [Coaching de prise de poste manager](/coaching-prise-poste-manager/)
+- [Coach professionnel pour manager]({{ '/coach-professionnel-manager/' | relative_url }})
+- [Coaching de prise de poste manager]({{ '/coaching-prise-poste-manager/' | relative_url }})
 
 **Articles utiles :**
 
-- [Posture du manager leader](/management-motivationnel/posture-manager-leader/)
-- [Autorite formelle et legitimite manageriale](/management-motivationnel/autorite-formelle-legitimite-manageriale/)
-- [Intelligence emotionnelle du manager](/management-motivationnel/intelligence-emotionnelle-manager/)
+- [Posture du manager leader]({{ '/posture-manager-leader/' | relative_url }})
+- [Autorite formelle et legitimite manageriale]({{ '/autorite-formelle-legitimite-manageriale/' | relative_url }})
+- [Intelligence emotionnelle du manager]({{ '/intelligence-emotionnelle-manager/' | relative_url }})
 
 ## Accompagnement OKR et pilotage de la performance
 
@@ -66,14 +66,14 @@ Un accompagnement pour clarifier les priorites, structurer les objectifs et pass
 
 **Pages associees :**
 
-- [Accompagnement mise en place methode OKR](/accompagnement-methode-okr/)
-- [Formation methode OKR entreprise](/formation-methode-okr-entreprise/)
+- [Accompagnement mise en place methode OKR]({{ '/accompagnement-methode-okr/' | relative_url }})
+- [Formation methode OKR entreprise]({{ '/formation-methode-okr-entreprise/' | relative_url }})
 
 **Articles utiles :**
 
-- [Methode OKR](/management-motivationnel/methode-okr/)
-- [Objectifs SMART, delegation et responsabilisation](/management-motivationnel/objectifs-smart-delegation-responsabilisation/)
-- [Valorisation systematique du travail](/management-motivationnel/valorisation-systematique-travail-vst/)
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
+- [Objectifs SMART, delegation et responsabilisation]({{ '/objectifs-smart-delegation-responsabilisation/' | relative_url }})
+- [Valorisation systematique du travail]({{ '/valorisation-systematique-travail-vst/' | relative_url }})
 
 ## QVCT, securite psychologique et prevention RPS
 
@@ -89,14 +89,14 @@ Un accompagnement pour agir sur les conditions reelles du travail : charge, prio
 
 **Pages associees :**
 
-- [Accompagnement QVCT](/accompagnement-qvct-qualite-vie-travail/)
-- [Prevention des risques psychosociaux RPS](/prevention-risques-psychosociaux-rps/)
+- [Accompagnement QVCT]({{ '/accompagnement-qvct-qualite-vie-travail/' | relative_url }})
+- [Prevention des risques psychosociaux RPS]({{ '/prevention-risques-psychosociaux-rps/' | relative_url }})
 
 **Articles utiles :**
 
-- [Securite psychologique et QVCT](/management-motivationnel/securite-psychologique-qvct/)
-- [Securite psychologique en equipe](/management-motivationnel/securite-psychologique-equipe/)
-- [Espaces de discussion au travail](/management-motivationnel/espaces-discussion-travail/)
+- [Securite psychologique et QVCT]({{ '/securite-psychologique-qvct/' | relative_url }})
+- [Securite psychologique en equipe]({{ '/securite-psychologique-equipe/' | relative_url }})
+- [Espaces de discussion au travail]({{ '/espaces-discussion-travail/' | relative_url }})
 
 ## Seminaire, cohesion et engagement strategique
 
@@ -112,15 +112,15 @@ Des formats collectifs pour renforcer la cooperation, clarifier les priorites et
 
 **Pages associees :**
 
-- [Atelier cohesion d'equipe](/atelier-seminaire-cohesion-equipe/)
-- [Seminaire engagement strategique](/seminaire-engagement-strategique/)
-- [Coaching CODIR](/coaching-comite-direction-codir/)
+- [Atelier cohesion d'equipe]({{ '/atelier-seminaire-cohesion-equipe/' | relative_url }})
+- [Seminaire engagement strategique]({{ '/seminaire-engagement-strategique/' | relative_url }})
+- [Coaching CODIR]({{ '/coaching-comite-direction-codir/' | relative_url }})
 
 **Articles utiles :**
 
-- [Donner du sens au travail](/management-motivationnel/donner-du-sens-au-travail/)
-- [Gerer les desaccords et conflits](/management-motivationnel/gerer-desaccords-conflits-equipe/)
-- [Maintenir la cohesion d'equipe a distance](/management-motivationnel/cohesion-equipe-distance/)
+- [Donner du sens au travail]({{ '/donner-du-sens-au-travail/' | relative_url }})
+- [Gerer les desaccords et conflits]({{ '/gerer-desaccords-conflits-equipe/' | relative_url }})
+- [Maintenir la cohesion d'equipe a distance]({{ '/cohesion-equipe-distance/' | relative_url }})
 
 ## Management hybride et nouveaux modes de travail
 
@@ -136,20 +136,20 @@ Un accompagnement pour structurer la communication, les rituels, le teletravail,
 
 **Pages associees :**
 
-- [Outils collaboratifs pour equipe hybride](/outils-collaboratifs-equipe-hybride/)
-- [Diagnostic teletravail](/diagnostic-teletravail-equipe/)
+- [Outils collaboratifs pour equipe hybride]({{ '/outils-collaboratifs-equipe-hybride/' | relative_url }})
+- [Diagnostic teletravail]({{ '/diagnostic-teletravail-equipe/' | relative_url }})
 
 **Articles utiles :**
 
-- [Management hybride](/management-motivationnel/management-hybride/)
-- [Architecture de communication en management hybride](/management-motivationnel/architecture-communication-management-hybride/)
-- [Onboarding hybride](/management-motivationnel/onboarding-hybride/)
+- [Management hybride]({{ '/management-hybride/' | relative_url }})
+- [Architecture de communication en management hybride]({{ '/architecture-communication-management-hybride/' | relative_url }})
+- [Onboarding hybride]({{ '/onboarding-hybride/' | relative_url }})
 
 ## Me contacter
 
 Chaque organisation a ses tensions, ses contraintes et son niveau de maturite. Le plus simple est de partir de votre contexte : objectifs, equipe concernee, irritants actuels et resultat attendu.
 
-[Contactez-moi pour echanger sur votre projet](/contact/).
+[Contactez-moi pour echanger sur votre projet]({{ '/contact/' | relative_url }}).
 
 
 

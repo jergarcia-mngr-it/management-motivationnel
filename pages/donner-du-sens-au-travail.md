@@ -2,7 +2,7 @@
 layout: default
 title: "Donner du sens au travail dans un environnement instable"
 description: "Comment un manager peut donner du sens, clarifier les priorites et proteger son equipe dans un contexte incertain ou changeant."
-permalink: /management-motivationnel/donner-du-sens-au-travail/
+permalink: /donner-du-sens-au-travail/
 page_type: article
 ---
 # Donner du sens au travail quand l'environnement devient instable
@@ -37,9 +37,9 @@ page_type: article
 {
     "@context":  "https://schema.org",
     "@type":  "BlogPosting",
-    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/#article",
-    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
-    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
+    "@id":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/#article",
+    "url":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
+    "mainEntityOfPage":  "https://jergarcia-mngr-it.github.io/management-motivationnel/outils-pilotage-leviers-operationnels/donner-du-sens-environnement-instable/",
     "headline":  "Donner du sens au travail dans un environnement instable",
     "description":  "Comment un manager peut donner du sens, clarifier les priorites et proteger son equipe dans un contexte incertain ou changeant.",
     "inLanguage":  "fr-FR",

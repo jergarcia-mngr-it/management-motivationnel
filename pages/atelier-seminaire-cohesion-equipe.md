@@ -61,10 +61,10 @@ Le format inclut un suivi pour eviter que le seminaire reste un moment isole.
 
 ## Articles pour approfondir
 
-- [Maintenir la cohesion d'equipe a distance](/management-motivationnel/cohesion-equipe-distance/)
-- [Securite psychologique en equipe](/management-motivationnel/securite-psychologique-equipe/)
-- [Gerer les desaccords et conflits](/management-motivationnel/gerer-desaccords-conflits-equipe/)
-- [Espaces de discussion au travail](/management-motivationnel/espaces-discussion-travail/)
+- [Maintenir la cohesion d'equipe a distance]({{ '/cohesion-equipe-distance/' | relative_url }})
+- [Securite psychologique en equipe]({{ '/securite-psychologique-equipe/' | relative_url }})
+- [Gerer les desaccords et conflits]({{ '/gerer-desaccords-conflits-equipe/' | relative_url }})
+- [Espaces de discussion au travail]({{ '/espaces-discussion-travail/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Un atelier peut durer une demi-journee, une journee ou s'integrer dans un semina
 
 ## Call to action
 
-[Contactez-moi pour construire un atelier de cohesion adapte a votre equipe](/contact/).
+[Contactez-moi pour construire un atelier de cohesion adapte a votre equipe]({{ '/contact/' | relative_url }}).
 
 
 

@@ -61,10 +61,10 @@ L'accompagnement aide a choisir, renoncer et concentrer l'effort sur les chantie
 
 ## Articles pour approfondir
 
-- [Donner du sens au travail](/management-motivationnel/donner-du-sens-au-travail/)
-- [Methode OKR](/management-motivationnel/methode-okr/)
-- [Outils de pilotage managerial](/management-motivationnel/outils-pilotage-managerial/)
-- [Management motivationnel](/management-motivationnel/fondements-motivation-travail/)
+- [Donner du sens au travail]({{ '/donner-du-sens-au-travail/' | relative_url }})
+- [Methode OKR]({{ '/methode-okr/' | relative_url }})
+- [Outils de pilotage managerial]({{ '/outils-pilotage-managerial/' | relative_url }})
+- [Management motivationnel]({{ '/fondements-motivation-travail/' | relative_url }})
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Il faut clarifier le cap, expliciter les priorites, traduire les decisions en ob
 
 ## Call to action
 
-[Contactez-moi pour echanger sur vos enjeux de strategie et d'alignement en PME](/contact/).
+[Contactez-moi pour echanger sur vos enjeux de strategie et d'alignement en PME]({{ '/contact/' | relative_url }}).
 
 
 
