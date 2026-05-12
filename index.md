@@ -21,6 +21,8 @@ Le management motivationnel est une approche manageriale qui vise a creer les co
 
 Pour poser les bases, commencez par le guide complet : [Management motivationnel : comprendre les leviers de motivation au travail]({{ '/fondements-motivation-travail/' | relative_url }}).
 
+<span id="articles"></span>
+
 ## Les 5 piliers du management motivationnel
 
 ### 1. Comprendre les fondements de la motivation au travail
