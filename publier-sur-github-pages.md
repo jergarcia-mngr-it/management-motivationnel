@@ -1,0 +1,47 @@
+# Publier avec GitHub Pages
+
+## Option recommandee : site de compte
+
+1. Connectez-vous a GitHub.
+2. Creez un nouveau depot nomme exactement :
+
+   `VOTRE-USERNAME.github.io`
+
+3. Copiez le contenu du dossier `site-github-pages` a la racine du depot.
+4. Dans `_config.yml`, remplacez :
+
+   `https://VOTRE-USERNAME.github.io`
+
+   par votre vraie URL GitHub Pages.
+
+5. Remplacez aussi `https://www.votre-site.fr` par votre URL finale dans les fichiers du site.
+6. Publiez sur la branche `main`.
+7. Allez dans `Settings > Pages`.
+8. Selectionnez `Deploy from a branch`.
+9. Selectionnez `main` et `/root`.
+10. Attendez le deploiement.
+
+## Commandes si Git est installe
+
+Depuis le dossier `site-github-pages` :
+
+```bash
+git init
+git add .
+git commit -m "Publier site management motivationnel"
+git branch -M main
+git remote add origin https://github.com/VOTRE-USERNAME/VOTRE-USERNAME.github.io.git
+git push -u origin main
+```
+
+## Important
+
+Git n'est pas disponible dans l'environnement actuel, donc je ne peux pas pousser directement depuis cette machine pour l'instant.
+
+Vous pouvez quand meme publier en uploadant les fichiers via l'interface GitHub :
+
+1. Ouvrir le depot.
+2. Cliquer sur `Add file`.
+3. Cliquer sur `Upload files`.
+4. Glisser tous les fichiers du dossier `site-github-pages`.
+5. Valider avec `Commit changes`.

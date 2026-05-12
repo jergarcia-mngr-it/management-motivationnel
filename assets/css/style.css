@@ -1,0 +1,136 @@
+:root {
+  --bg: #fbfaf8;
+  --text: #1f2933;
+  --muted: #5d6875;
+  --line: #d9dee5;
+  --accent: #18635b;
+  --accent-dark: #104944;
+  --panel: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.65;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: var(--accent-dark);
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 18px 32px;
+  border-bottom: 1px solid var(--line);
+  background: var(--panel);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.brand {
+  color: var(--text);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 14px;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.nav-cta {
+  background: var(--accent);
+  color: white !important;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.page {
+  width: min(960px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 48px 0 72px;
+}
+
+h1 {
+  font-size: clamp(34px, 5vw, 54px);
+  line-height: 1.1;
+  margin: 0 0 22px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 1.2;
+  margin-top: 48px;
+}
+
+h3 {
+  font-size: 22px;
+  line-height: 1.25;
+  margin-top: 30px;
+}
+
+p,
+li {
+  font-size: 17px;
+}
+
+ul {
+  padding-left: 22px;
+}
+
+blockquote {
+  border-left: 4px solid var(--accent);
+  padding-left: 16px;
+  color: var(--muted);
+}
+
+.site-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 32px;
+  border-top: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--muted);
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+@media (max-width: 760px) {
+  .site-header,
+  .site-footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .page {
+    padding-top: 32px;
+  }
+}

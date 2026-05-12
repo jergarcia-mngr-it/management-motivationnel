@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }}</title>
+    <meta name="description" content="{{ page.description | escape }}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}">Management Motivationnel</a>
+      <nav class="nav" aria-label="Navigation principale">
+        <a href="{{ '/management-motivationnel/' | relative_url }}">Management motivationnel</a>
+        <a href="{{ '/services/' | relative_url }}">Services</a>
+        <a href="{{ '/management-motivationnel/fondements-motivation-travail/' | relative_url }}">Articles</a>
+        <a href="{{ '/a-propos/' | relative_url }}">A propos</a>
+        <a class="nav-cta" href="{{ '/contact/' | relative_url }}">Contact</a>
+      </nav>
+    </header>
+    <main class="page">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div>
+        <strong>Management Motivationnel</strong>
+        <p>Formation, coaching et ressources pour managers, RH et dirigeants.</p>
+      </div>
+      <div class="footer-links">
+        <a href="{{ '/services/' | relative_url }}">Services</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        <a href="{{ '/management-motivationnel/' | relative_url }}">Ressources</a>
+      </div>
+    </footer>
+  </body>
+</html>

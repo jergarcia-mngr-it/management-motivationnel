@@ -1,0 +1,12 @@
+title: "Management Motivationnel"
+description: "Ressources, formations et accompagnements pour renforcer l'engagement, la posture manageriale et la performance durable."
+url: "https://VOTRE-USERNAME.github.io"
+baseurl: ""
+lang: "fr-FR"
+markdown: kramdown
+theme: null
+
+exclude:
+  - README.md
+  - publier-sur-github-pages.md
+  - replace-domain.ps1
